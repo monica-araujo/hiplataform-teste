@@ -22,7 +22,7 @@ $ code .
 $ npm install / yarn install
 
 ### Rode o comando npm start ou yarn start para abrir o projeto no navegador
-$ npm run start / yarn start
+$ npm start / yarn start
 
 ## 👷 Desenvolvido por: 
 - Mônica Araujo
