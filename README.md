@@ -3,7 +3,7 @@
 
 ## 📓 Sobre
 
-Teste feito para o processo seletivo de estágio na HiPlataform, consiste em criar um componente capaz de fazer a pesquisa de um CEP com a API do ViaCep, retornar as informações caso o CEP esteja correto ou uma mensagem de erro caso não esteja.
+Teste feito para o processo seletivo de estágio na HiPlatform, consiste em criar um componente capaz de fazer a pesquisa de um CEP com a API do ViaCep, retornar as informações caso o CEP esteja correto ou uma mensagem de erro caso não esteja.
 
 ## 🛠 Tecnologias
 
