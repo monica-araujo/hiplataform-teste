@@ -1,5 +1,5 @@
 
-# Teste Estágio - HiPlataform
+# Teste Estágio - HiPlatform
 
 ## 📓 Sobre
 
@@ -14,7 +14,7 @@ As principais ferramentas utilizadas para a construção do projeto foram:
 
 ## 🏁 Rodando o projeto
 ### Clone este repositório
-$ git clone <https://github.com/monica-araujo/teste-hiplataform.git>
+$ git clone <https://github.com/monica-araujo/teste-hiplatform.git>
 
 ### Abra o arquivo no VSCode
 $ code .
