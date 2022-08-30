@@ -1,3 +1,4 @@
+
 # Teste Estágio - HiPlataform
 
 ## 📓 Sobre
@@ -26,3 +27,4 @@ $ npm start / yarn start
 
 ## 👷 Desenvolvido por: 
 - Mônica Araujo
+
